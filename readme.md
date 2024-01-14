@@ -1,4 +1,4 @@
-# CoursesellingApp Backend
+# Course-Selling-App Backend
 
 This repository contains the backend implementation for CoursesellingApp, an innovative platform designed for buying and selling educational courses. The backend is developed to provide seamless communication between the admin and users through well-defined API endpoints.
 
